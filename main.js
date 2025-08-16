@@ -180,12 +180,12 @@
 // 10-
 
 
-var number = +window.prompt(" enter the number");
+// var number = +window.prompt(" enter the number");
 
-for(var i=1 ; i<=12 ; i++)
-{
-    console.log(i * number);
-}
+// for(var i=1 ; i<=12 ; i++)
+// {
+//     console.log(i * number);
+// }
 
 
 // 11-
