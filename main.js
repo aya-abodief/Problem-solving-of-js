@@ -166,7 +166,7 @@
 //     }
 
 
-// 9-
+// 8 ,9-
 
 // var number = +window.prompt(" enter the number");
 
